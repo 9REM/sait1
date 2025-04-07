@@ -2,5 +2,7 @@
 # Ковалёв Роман Евгеньевич  
 ### Ссылки на социальные сети  
 
-https://vk.com/kovalev.roman  **Вконтакте**
+https://vk.com/kovalev.roman  **Вконтакте**  
 https://github.com/9REM  **ГитХаб**
+
+---
